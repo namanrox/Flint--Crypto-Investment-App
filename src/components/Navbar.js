@@ -103,7 +103,7 @@ function Navbar() {
       <button
         onClick={() =>
           window.open(
-            "https://github.com/namanrox",
+            "https://github.com/namanrox/Flint--Crypto-Investment-App",
             "_blank",
             "noopener noreferrer"
           )
